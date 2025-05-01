@@ -1,0 +1,6 @@
+@Formatador_CPF_CNPJ_HostAddress = http://localhost:5291
+
+GET {{Formatador_CPF_CNPJ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
